@@ -6,7 +6,7 @@ Machine learning, sports analytics, and quantitative research.
 
 ## Featured Work
 
-- **Beyond the Expert** — Published in the *Wharton Sports Analytics Journal (2026)*
+- [**Beyond the Expert: An Algorithmic Approach to Correcting Expert Bias in Fantasy Football Projections**](https://wsb.wharton.upenn.edu/wharton-sports-analytics-journal/2026-spring-edition/#Jayanti) — Published in the *Wharton Sports Analytics Journal (2026)*
 - **The Basketball Oracle** — NBA forecasting and analytics platform
 - **Volatility-Adjusted Momentum Engine** — Quantitative equities backtesting framework
 
