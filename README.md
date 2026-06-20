@@ -20,4 +20,6 @@ Computer Science student at Purdue University's John Martinson Honors College in
 
 ### Links
 
-- LinkedIn: linkedin.com/in/vjayanti
+**Connect with me:** [LinkedIn](https://linkedin.com/in/vjayanti)
+
+**Follow my Research:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=XA1tLwkAAAAJ)
