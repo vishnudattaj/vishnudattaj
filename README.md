@@ -9,7 +9,7 @@ Computer Science student at Purdue University's John Martinson Honors College in
 
 ### Projects
 
-- **The Basketball Oracle** — NBA analytics platform featuring XGBoost forecasting (R² = 0.71), semantic search, and a LangChain/Ollama RAG pipeline indexing 52,000+ basketball articles.
+- **The Basketball Oracle** — NBA analytics platform featuring XGBoost forecasting, a custom evaluation metric, and a LangChain/Ollama RAG pipeline indexing 52,000+ basketball articles.
 - **Volatility-Adjusted Momentum Engine** — Historical equities backtesting framework using Garman-Klass volatility estimates and risk-adjusted momentum signals.
 
 ### Tech Stack
