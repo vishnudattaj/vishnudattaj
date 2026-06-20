@@ -2,7 +2,7 @@
 
 CS @ Purdue Honors
 
-Machine learning, sports analytics, and quantitative research.
+ML Research, applied ML, and quant backtesting.
 
 ## Featured Work
 
@@ -12,5 +12,6 @@ Machine learning, sports analytics, and quantitative research.
 
 ## Links
 
+- **Explore my work:** [Portfolio](https://vishnudattaj.github.io/vishnu-portfolio/#research)
 - **Connect with me:** [LinkedIn](https://linkedin.com/in/vjayanti)
 - **Follow my research:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=XA1tLwkAAAAJ)
