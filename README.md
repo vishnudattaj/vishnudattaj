@@ -1,17 +1,23 @@
-## Hi there, I'm Vishnu!
+## Hi, I'm Vishnu
 
-I am a Computer Science student at Purdue University's John Martinson Honors College, working at the intersection of Artificial Intelligence, predictive modeling, and quantitative development. 
+Computer Science student at Purdue University's John Martinson Honors College interested in machine learning, predictive modeling, and quantitative research.
 
-### Featured Research
-- **Published Author:** *"Beyond the Expert: An Algorithmic Approach to Correcting Expert Bias in Fantasy Football Projections"* — **Wharton Sports Analytics Journal** (May 2026).
-- **The Core Work:** Engineered position-specific XGBoost models trained on 10 years of NFL data with over 1,900 engineered features to successfully mitigate cognitive, narrative-driven expert bias.
+### Research
 
-### Open Source & Projects
-- **The Basketball Oracle:** A full-stack NBA analytics platform integrating XGBoost forecasting ($R^2$ of 0.71) with a LangChain & Ollama RAG pipeline indexing over 52,000 articles.
-- **Volatility-Adjusted Momentum Engine:** A Python-based backtesting pipeline for historical U.S. equities incorporating Garman-Klass volatility estimates.
+- *Beyond the Expert: An Algorithmic Approach to Correcting Expert Bias in Fantasy Football Projections* — Wharton Sports Analytics Journal (2026)
+- Developed position-specific XGBoost models trained on 10 years of NFL data and 1,900+ engineered features to reduce narrative-driven expert bias in fantasy football rankings.
+
+### Projects
+
+- **The Basketball Oracle** — NBA analytics platform featuring XGBoost forecasting (R² = 0.71), semantic search, and a LangChain/Ollama RAG pipeline indexing 52,000+ basketball articles.
+- **Volatility-Adjusted Momentum Engine** — Historical equities backtesting framework using Garman-Klass volatility estimates and risk-adjusted momentum signals.
 
 ### Tech Stack
-- **Languages:** Python, C, HTML/CSS
-- **Libraries & Frameworks:** XGBoost, Scikit-learn, LangChain, Pandas, NumPy, NLTK, Flask
 
-**Connect with me:** [LinkedIn](https://linkedin.com/in/vjayanti)
+**Languages:** Python, C, HTML/CSS
+
+**Libraries & Tools:** XGBoost, Scikit-learn, Pandas, NumPy, LangChain, Flask, NLTK
+
+### Links
+
+- LinkedIn: linkedin.com/in/vjayanti
