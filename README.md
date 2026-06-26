@@ -12,6 +12,6 @@ ML Research, applied ML, and quant backtesting.
 
 ## Links
 
-- **Explore my work:** [Portfolio](https://vishnudattaj.github.io/vishnu-portfolio)
 - **Connect with me:** [LinkedIn](https://linkedin.com/in/vjayanti)
+- **Explore my work:** [Portfolio](https://vishnudattaj.github.io/vishnu-portfolio)
 - **Follow my research:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=XA1tLwkAAAAJ)
